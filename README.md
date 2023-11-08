@@ -42,11 +42,11 @@ Em resumo, o resultado "True" indica que, com um nível de significância de 5%,
 
 ![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/1a14c3c4-8109-4a00-ae30-0f683b4537c1)
 
-Conjunto de Dados (Normal):
+##Conjunto de Dados (Normal):
 
 Este é o conjunto de dados que está sendo analisado. Contém 50 observações.
 
-Estatísticas Descritivas:
+##Estatísticas Descritivas:
 
 Média (Media) = 30.14
 
@@ -65,13 +65,13 @@ Soma (Soma) = 602.86
 Contagem (Contagem) = 50
 
 
-p-valor:
+##p-valor:
 
 O p-valor é uma medida que indica a probabilidade de obter um resultado igual ou mais extremo do que o observado, assumindo que a hipótese nula (H0) seja verdadeira.
 
 Neste caso, o p-valor é 0.7166, o que significa que há uma alta probabilidade de observar um resultado semelhante ou mais extremo apenas por acaso, mesmo se a distribuição dos dados seguir uma distribuição normal.
 
-Comparação com o Nível de Significância (α):
+##Comparação com o Nível de Significância (α):
 
 O nível de significância (α) é o limiar que determina se rejeitamos ou não a hipótese nula (H0). Neste caso, α = 0.05, o que significa que estamos dispostos a aceitar uma probabilidade de 5% de cometer um erro do tipo I.
 Decisão:
