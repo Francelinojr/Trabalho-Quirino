@@ -1,5 +1,6 @@
 # Trabalho-Quirino
 
+# KOLMOGOROV-SMIRNOV
 ![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/c4009207-dd8f-42ab-8ebc-cd30bf89bf9e)
 
 O resultado "True" indica que, com um nível de significância de 5% (α = 0.05), não há evidência estatisticamente significativa para rejeitar a hipótese nula (H0). Vamos explicar isso de forma mais detalhada:
@@ -158,7 +159,7 @@ Interpretação:
 Portanto, com base na análise estatística, rejeitamos a hipótese nula (H0). Isso sugere que os dados não seguem uma distribuição normal.
 Em resumo, o resultado "False" indica que, com um nível de significância de 5%, temos evidências estatisticamente significativas para concluir que os dados não seguem uma distribuição normal.
 
-## ShapiroWilk
+# SHAPIRO-WILK
 
 ![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/698352d5-b4fa-486b-83ad-0e6d72923c97)
 
@@ -311,7 +312,7 @@ O p-valor (menor que α) indica que temos evidências estatisticamente significa
 Portanto, com base na análise estatística, rejeitamos a hipótese nula (H0). Isso sugere que os dados não seguem uma distribuição normal.
 Em resumo, o resultado "False" indica que, com um nível de significância de 5%, temos evidências estatisticamente significativas para concluir que os dados não seguem uma distribuição normal.
 
-# Bartlett
+# BARTLETT
 
 ![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/29228473-d6fb-4de4-8cea-ff75cb2bb5c4)
 
@@ -377,7 +378,7 @@ O valor crítico da distribuição qui-quadrado (X2c) é obtido com base no nív
 Como Bcalc foi maior do que X2c, rejeitamos a hipótese nula (H0). Isso sugere que há evidência estatística suficiente para concluir que as variâncias dos dois conjuntos de dados são diferentes.
 Em resumo, o resultado "False" indica que, com um nível de significância de 5%, temos evidência estatisticamente significativa para concluir que as variâncias dos dois conjuntos de dados não são iguais.
 
-# Z score
+# Z SCORE
 
 ![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/4e5185d3-e0cd-4966-bc12-6bb0b6bfd773)
 
@@ -569,7 +570,7 @@ O valor crítico de T (Tc) é obtido com base no nível de significância (α) e
 Como Tcalc foi menor que Tc, não rejeitamos a hipótese nula (H0). Isso sugere que não há evidência estatística suficiente para concluir que as médias populacionais dos dois conjuntos são diferentes.
 Portanto, o resultado "False" indica que, com um nível de significância de 5%, não rejeitamos a hipótese nula de que as médias populacionais dos dois conjuntos são iguais.
 
-# T studente Emparelhada
+# T STUDENTE EMPARELHADA
 
 ![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/d3e099bc-6d4d-4229-8bfe-8c8bba56ed5e)
 
