@@ -7,16 +7,26 @@ O resultado "True" indica que, com um nível de significância de 5% (α = 0.05)
 Conjunto de Dados (ProdBienalAvioes):
 
 Este é o conjunto de dados que está sendo analisado. Contém 24 observações.
+
 Estatísticas Descritivas:
 
 Média (Media) = 27.5
+
 Variância (Variancia) = 55.75
+
 Desvio Padrão (DesvioPadrao) = 7.47
+
 Mediana (Mediana) = 28.0
+
 Mínimo (Minimo) = 15
+
 Máximo (Maximo) = 46
+
 Soma (Soma) = 660
+
 Contagem (Contagem) = 24
+
+
 p-valor:
 
 O p-valor é uma medida que indica a probabilidade de obter um resultado igual ou mais extremo do que o observado, assumindo que a hipótese nula (H0) seja verdadeira.
@@ -39,16 +49,26 @@ Em resumo, o resultado "True" indica que, com um nível de significância de 5%,
 Conjunto de Dados (Normal):
 
 Este é o conjunto de dados que está sendo analisado. Contém 50 observações.
+
 Estatísticas Descritivas:
 
 Média (Media) = 30.14
+
 Variância (Variancia) = 27.52
+
 Desvio Padrão (DesvioPadrao) = 5.25
+
 Mediana (Mediana) = 30.88
+
 Mínimo (Minimo) = 19.62
+
 Máximo (Maximo) = 38.53
+
 Soma (Soma) = 602.86
+
 Contagem (Contagem) = 50
+
+
 p-valor:
 
 O p-valor é uma medida que indica a probabilidade de obter um resultado igual ou mais extremo do que o observado, assumindo que a hipótese nula (H0) seja verdadeira.
