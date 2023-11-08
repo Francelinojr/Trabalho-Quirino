@@ -403,7 +403,7 @@ A estatística de Z-Score é calculada para testar a igualdade das médias.
 
 Neste caso, o valor calculado (Zcalc) foi menor ou igual ao valor crítico de Z (Zc), o que indica que não temos evidências estatisticamente significativas para rejeitar a hipótese nula.
 
-## Comparação com o Valor Crítico:
+### Comparação com o Valor Crítico:
 
 O valor crítico de Z (Zc) é obtido com base no nível de significância (α) e nos graus de liberdade do teste.
 
@@ -443,6 +443,8 @@ O valor crítico de Z (Zc) é obtido com base no nível de significância (α) e
 
 Como Zcalc foi maior que Zc, rejeitamos a hipótese nula (H0). Isso sugere que há evidência estatística suficiente para concluir que a média populacional é diferente de 35.
 Em resumo, o resultado "False" indica que, com um nível de significância de 5%, temos evidência estatisticamente significativa para concluir que a média populacional é diferente de 35.
+
+# T STUDENT INDEPENDENTE
 
 ![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/1a276d2a-370d-41dd-b3ee-3d5633f9ab01)
 
