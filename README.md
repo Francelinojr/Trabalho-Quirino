@@ -1,6 +1,60 @@
-# Trabalho-Quirino
+# KOLMOGOROV-SMIRNOV
+
+![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/c81faf00-59dc-4ecd-b11f-f7da24b5e309)
+
+### Estatísticas Descritivas:
+
+Média (Media): 30.2
+
+Variância (Variancia): 31.34
+
+Desvio Padrão (DesvioPadrao): 5.60
+
+Mediana (Mediana): 31.0
+
+Mínimo (Minimo): 21
+
+Máximo (Maximo): 42
+
+Soma (Soma): 906
+
+Contagem (Contagem): 30
+
+Essas estatísticas fornecem uma visão geral das propriedades do conjunto de dados.
+
+### Teste de Kolmogorov-Smirnov:
+
+A estatística de teste (Dcalc) é 0.4.
+O valor crítico (Dtab) para o nível de significância de 5% é menor que 0.4, o que significa que não há evidência suficiente para rejeitar a hipótese nula de que os dados seguem uma distribuição normal. Portanto, os dados podem ser considerados como provenientes de uma distribuição normal.
+
+### Teste de Confiabilidade:
+
+O valor da estatística de teste Anderson-Darling (ad_statistic) é 0.40.
+Os valores críticos fornecidos pelo teste de Anderson-Darling para diferentes níveis de significância não ultrapassam 0.40. Isso sugere que os dados podem seguir uma distribuição normal a um nível de significância de 5%.
+Tabela de Cálculos:
+
+A tabela apresenta os cálculos detalhados envolvendo os valores observados (xi), a frequência acumulada observada (Fa), a frequência relativa acumulada observada (Fra), a estatística z calculada (zcalc), a função de distribuição acumulada esperada (fesp) e as diferenças absolutas entre as frequências observadas e esperadas.
+Em resumo, os resultados indicam que os dados podem ser considerados como provenientes de uma distribuição normal, com base nos testes de Kolmogorov-Smirnov e Anderson-Darling. Portanto, é razoável assumir normalidade para este conjunto de dados.
+
+# SHAPIRO-WILK
+
+![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/3f15dffc-e7b4-4428-be65-eac0c7c8aedc)
+
+O resultado do teste de Shapiro-Wilk indica que a variável em questão não segue uma distribuição normal. Isso significa que os dados não exibem um padrão de comportamento típico de uma distribuição normal.
+
+Para fundamentar essa conclusão, o teste compara a distribuição dos dados com uma distribuição normal teórica. O valor calculado da estatística de teste (Wcalc) é 0.978, enquanto o valor crítico (Wc) para um nível de significância de 1% é 0.884. Como Wcalc é maior que Wc, isso sugere que os dados não são consistentes com uma distribuição normal.
+
+A estatística de teste de Shapiro-Wilk (W) mede a diferença entre a distribuição empírica dos dados e a distribuição esperada em uma distribuição normal. Quanto mais próxima de 1 for a estatística de teste, mais próximos os dados estão de uma distribuição normal.
+
+Além disso, algumas estatísticas descritivas dos dados também são apresentadas, incluindo média, variância, desvio padrão, mediana, valor máximo, valor mínimo, soma total e contagem de observações.
+
+Em resumo, com base nos resultados do teste de Shapiro-Wilk, podemos concluir que a variável em questão não segue uma distribuição normal. É importante considerar esse resultado ao realizar análises estatísticas que pressupõem normalidade dos dados.
+
+
+# Segunda parte 
 
 # KOLMOGOROV-SMIRNOV
+
 ![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/c4009207-dd8f-42ab-8ebc-cd30bf89bf9e)
 
 O resultado "True" indica que, com um nível de significância de 5% (α = 0.05), não há evidência estatisticamente significativa para rejeitar a hipótese nula (H0). Vamos explicar isso de forma mais detalhada:
