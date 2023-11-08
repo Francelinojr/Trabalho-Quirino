@@ -525,5 +525,86 @@ O valor crítico de T (Tc) é obtido com base no nível de significância (α) e
 Como Tcalc foi menor que Tc, rejeitamos a hipótese nula (H0). Isso sugere que há evidência estatística suficiente para concluir que as médias populacionais dos dois conjuntos são diferentes.
 Portanto, o resultado "False" indica que, com um nível de significância de 5%, rejeitamos a hipótese nula de que as médias populacionais dos dois conjuntos são iguais.
 
+![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/4b77ce5b-e0f2-4473-a8a9-9e95cb4fda81)
 
+![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/26d73f1f-e06c-47fd-8aca-290a227da78e)
 
+![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/8dcbb004-193c-4976-9ef6-95b45d7becca)
+
+O teste de comparação de médias populacionais independentes (T de Student) foi conduzido com base nos conjuntos de dados fornecidos (t31 e t32). Vamos analisar os resultados:
+
+## Conjunto de Dados:
+
+Foram fornecidos dois conjuntos de dados, t31 e t32. Cada conjunto possui 25 observações.
+
+## Hipóteses:
+
+H0: As médias populacionais dos dois conjuntos são iguais (M1 = M2).
+H1: As médias populacionais dos dois conjuntos são diferentes (M1 ≠ M2).
+
+## Estatísticas Descritivas:
+
+Para os conjuntos t31 e t32, foram calculadas diversas estatísticas descritivas, como média, variância, desvio padrão, máximos, mínimos e somas.
+
+## Teste de Bartlett:
+
+Primeiramente, é realizado o teste de Bartlett para verificar se as variâncias dos dois conjuntos são iguais. Neste caso, o teste de Bartlett falhou em aceitar a hipótese nula.
+
+## Escolha do Caso:
+
+Como o teste de Bartlett falhou em aceitar a hipótese nula, estamos no "Caso 1", onde as variâncias dos dois conjuntos são diferentes (Sigma²1 != Sigma²2).
+
+## Cálculo do Estatístico T (Tcalc):
+
+O estatístico T é calculado levando em conta que as variâncias são diferentes.
+
+## Comparação com o Valor Crítico:
+
+O valor crítico de T (Tc) é obtido com base no nível de significância (α) e nos graus de liberdade do teste.
+
+## Decisão:
+
+Como Tcalc foi menor que Tc, não rejeitamos a hipótese nula (H0). Isso sugere que não há evidência estatística suficiente para concluir que as médias populacionais dos dois conjuntos são diferentes.
+Portanto, o resultado "False" indica que, com um nível de significância de 5%, não rejeitamos a hipótese nula de que as médias populacionais dos dois conjuntos são iguais.
+
+# T studente Emparelhada
+
+![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/d3e099bc-6d4d-4229-8bfe-8c8bba56ed5e)
+
+## Descrição:
+
+Foram gerados dois conjuntos de dados (t11 e t12), cada um com 50 observações, seguindo uma distribuição normal com média 30 e desvio padrão 5.
+
+## Teste de Kolmogorov-Smirnov:
+
+O teste foi bem-sucedido (p-valor >= alpha). Isso significa que não há evidência estatística para rejeitar a hipótese nula de que os conjuntos de dados seguem a mesma distribuição.
+
+## Teste de Bartlett:
+
+O teste de Bartlett foi bem-sucedido (variâncias iguais).
+
+## Teste T de Student para Dados Emparelhados:
+
+O teste T de Student foi bem-sucedido (p-valor >= alpha). Não há evidência estatística para rejeitar a hipótese nula de que as médias das diferenças são iguais a zero.
+
+![image](https://github.com/Francelinojr/Trabalho-Quirino/assets/115588340/b5494f41-2efa-4a74-9554-c54d253c850f)
+
+## Descrição:
+
+Foram gerados dois conjuntos de dados (t31 e t32), cada um com 500 observações. O primeiro segue uma distribuição normal com média 30 e desvio padrão 5, e o segundo com média 30 e desvio padrão 10.
+
+## Teste de Kolmogorov-Smirnov:
+
+Para ambos os conjuntos de dados, o teste foi bem-sucedido (p-valor >= alpha). Isso significa que não há evidência estatística para rejeitar a hipótese nula de que os conjuntos de dados seguem a mesma distribuição.
+
+## Teste de Bartlett:
+
+O teste de Bartlett falhou em aceitar a hipótese nula, indicando que as variâncias dos conjuntos podem ser diferentes.
+
+## Teste T de Student para Dados Emparelhados:
+
+Uma vez que o teste de Bartlett indicou que as variâncias não são iguais, é utilizado o caso onde as variâncias são diferentes.
+
+O teste T de Student para dados emparelhados falhou em aceitar a hipótese nula, indicando que há evidência estatística para rejeitar a hipótese nula de que a média das diferenças é igual a zero. Portanto, as médias dos conjuntos não são iguais.
+
+Resumindo, os conjuntos de dados t31 e t32 provavelmente não têm a mesma média, pois o teste T de Student rejeitou a hipótese nula de que a média das diferenças é igual a zero. Além disso, as amostras não possuem variâncias iguais, conforme indicado pelo teste de Bartlett.
