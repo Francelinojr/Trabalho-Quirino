@@ -149,12 +149,19 @@ Este é o conjunto de dados que está sendo analisado. Contém 500 observações
 ### Estatísticas Descritivas:
 
 Média (Media) = 3.68
+
 Variância (Variancia) = 8.66
+
 Desvio Padrão (DesvioPadrao) = 2.94
+
 Mediana (Mediana) = 2.41
+
 Mínimo (Minimo) = 0.86
+
 Máximo (Maximo) = 13.62
+
 Soma (Soma) = 73.50
+
 Contagem (Contagem) = 500
 
 ### p-valor:
@@ -187,12 +194,19 @@ Este é o conjunto de dados que está sendo analisado. Contém 50 observações.
 ### Estatísticas Descritivas:
 
 Média (Media) = 0.19
+
 Variância (Variancia) = 8.10
+
 Desvio Padrão (DesvioPadrao) = 2.85
+
 Mediana (Mediana) = -0.32
+
 Mínimo (Minimo) = -5.20
+
 Máximo (Maximo) = 10.47
+
 Soma (Soma) = 3.78
+
 Contagem (Contagem) = 50
 
 ### p-valor:
@@ -226,12 +240,19 @@ Este é o conjunto de dados que está sendo analisado. Contém 36 observações.
 ### Estatísticas Descritivas:
 
 Média (Media) = 42.64
+
 Variância (Variancia) = 49.01
+
 Desvio Padrão (DesvioPadrao) = 7.00
+
 Mediana (Mediana) = 42.0
+
 Mínimo (Minimo) = 30
+
 Máximo (Maximo) = 55
+
 Soma (Soma) = 1535
+
 Contagem (Contagem) = 36
 
 ### p-valor:
@@ -264,12 +285,19 @@ Este é o conjunto de dados que está sendo analisado. Contém 50 observações.
 ### Estatísticas Descritivas:
 
 Média (Media) = 30.19
+
 Variância (Variancia) = 15.68
+
 Desvio Padrão (DesvioPadrao) = 3.96
+
 Mediana (Mediana) = 29.75
+
 Mínimo (Minimo) = 23.11
+
 Máximo (Maximo) = 39.85
+
 Soma (Soma) = 1509.45
+
 Contagem (Contagem) = 50
 
 ### p-valor:
@@ -302,12 +330,19 @@ Este é o conjunto de dados que está sendo analisado. Contém 50 observações.
 ### Estatísticas Descritivas:
 
 Média (Media) = 4.01
+
 Variância (Variancia) = 5.83
+
 Desvio Padrão (DesvioPadrao) = 2.41
+
 Mediana (Mediana) = 3.40
+
 Mínimo (Minimo) = 0.43
+
 Máximo (Maximo) = 10.23
+
 Soma (Soma) = 200.57
+
 Contagem (Contagem) = 50
 
 ### p-valor:
@@ -339,12 +374,19 @@ Este é o conjunto de dados que está sendo analisado. Contém 50 observações.
 ### Estatísticas Descritivas:
 
 Média (Media) = 7.60
+
 Variância (Variancia) = 1376.46
+
 Desvio Padrão (DesvioPadrao) = 37.10
+
 Mediana (Mediana) = 0.16
+
 Mínimo (Minimo) = -6.55
+
 Máximo (Maximo) = 259.46
+
 Soma (Soma) = 380.14
+
 Contagem (Contagem) = 50
 
 ### p-valor:
