@@ -4,12 +4,10 @@
 
 O resultado "True" indica que, com um nível de significância de 5% (α = 0.05), não há evidência estatisticamente significativa para rejeitar a hipótese nula (H0). Vamos explicar isso de forma mais detalhada:
 
-Conjunto de Dados (ProdBienalAvioes):
-
+**Conjunto de Dados (ProdBienalAvioes):**
 Este é o conjunto de dados que está sendo analisado. Contém 24 observações.
 
-Estatísticas Descritivas:
-
+**Estatísticas Descritivas:**
 Média (Media) = 27.5
 
 Variância (Variancia) = 55.75
@@ -27,17 +25,15 @@ Soma (Soma) = 660
 Contagem (Contagem) = 24
 
 
-p-valor:
-
+**p-valor:**
 O p-valor é uma medida que indica a probabilidade de obter um resultado igual ou mais extremo do que o observado, assumindo que a hipótese nula (H0) seja verdadeira.
 
 Neste caso, o p-valor é 0.8565, o que significa que há uma alta probabilidade de observar um resultado semelhante ou mais extemo apenas por acaso, mesmo se a distribuição dos dados seguir a distribuição normal.
 
-Comparação com o Nível de Significância (α):
-
+**Comparação com o Nível de Significância (α):**
 O nível de significância (α) é o limiar que determina se rejeitamos ou não a hipótese nula (H0). Neste caso, α = 0.05, o que significa que estamos dispostos a aceitar uma probabilidade de 5% de cometer um erro do tipo I.
-Decisão:
 
+**Decisão:**
 O p-valor (0.8565) é maior do que o nível de significância (α = 0.05). Isso significa que não temos evidências estatisticamente significativas para rejeitar a hipótese nula.
 Interpretação:
 
